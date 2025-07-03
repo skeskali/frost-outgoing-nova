@@ -2,7 +2,7 @@
 
 This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
 
-_Last updated: 28 Feb 2023_
+_Last updated: 2025-07-03_
 
 ## What's in this project?
 
@@ -45,4 +45,4 @@ Add these meta tags for SEO and social sharing between your page `<head></head>`
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+<!-- - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more. -->
